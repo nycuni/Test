@@ -7,7 +7,7 @@ Created on Thu May  4 10:48:37 2017
 
 import numpy as np
 import pandas as pd
-import pandas.io.data as web
+#import pandas.io.data as web
 import pandas_datareader.data as web
 import matplotlib.pyplot as plt
 import scipy.optimize as sco
